@@ -1,9 +1,7 @@
 # ProductStore
 
-Curso: Code Dimension 
-link: [YouTube - Play List](https://www.youtube.com/watch?v=39r_cpIN214&list=PLXEUJjGpEX7zwdFSAzIPiSf9p0tOeI1Yu)
-
-[Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
+#Curso: Code Dimension 
+# link: [YouTube - Play List](https://www.youtube.com/watch?v=39r_cpIN214&list=PLXEUJjGpEX7zwdFSAzIPiSf9p0tOeI1Yu)
 
 ## Ferramentas
 
